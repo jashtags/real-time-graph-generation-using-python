@@ -1,0 +1,5 @@
+dog 10
+cat 11
+hamster 15
+coola 7
+hippo 3
