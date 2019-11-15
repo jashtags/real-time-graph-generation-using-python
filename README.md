@@ -1,5 +1,6 @@
 # real-time-graph-generation-using-python
 Hi guys this is jaswanth tanukonda
+execution done in link : https://trinket.io/embed/python/33e5c3b81b#.Xc7jZy2B3BK
 this program is about generating a real time pie or bar chart 
 only if you want barchart you need to do:
 1. in the pets.txt file, in the top include
